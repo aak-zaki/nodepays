@@ -25,7 +25,7 @@
 git clone https://github.com/aak-zaki/nodepays.git
 ```
 ```
-cd nodepay
+cd nodepays
 ```
 ```
 pip install -r requirements.txt
