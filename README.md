@@ -22,7 +22,7 @@
 
 # HOW TO RUN
 ```
-git clone https://github.com/AirdropzkNodes-V2-0/nodepays.git
+git clone https://github.com/aak-zaki/nodepays.git
 ```
 ```
 cd nodepay
